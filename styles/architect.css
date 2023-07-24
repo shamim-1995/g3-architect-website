@@ -110,6 +110,16 @@ main {
     font-weight: 700;
 }
 
+/* facts styles */
+.facts-title, .nav-title {
+    color: #131313;
+    font-size: 45px;
+    font-weight: 700;
+   
+}
+
+
+
 
 
 
@@ -129,7 +139,7 @@ main {
         flex-direction: column;
     }
 
-    .teams-image-container{
+    .teams-image-container {
         grid-template-columns: 1fr;
     }
 
